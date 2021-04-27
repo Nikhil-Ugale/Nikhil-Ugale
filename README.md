@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Nikhil-Ugale
+- 👀 I’m interested in data science and competitive coding...
+- 🌱 I’m currently pursuing Masters in Big Data Analytics from VIT Vellore ...
+- 📫 Reach out to me on https://www.linkedin.com/in/nikhil-ugale-09742211a/ ...
+
+<!---
+Nikhil-Ugale/Nikhil-Ugale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
